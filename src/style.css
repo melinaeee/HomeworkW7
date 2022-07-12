@@ -1,6 +1,5 @@
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    
 }
 
 h1 {
@@ -63,4 +62,14 @@ li:first-letter {
     position: relative;
     font-size: 18px;
     top: -32px
+}
+
+.weather-temperature .active {
+    color: black;
+    text-decoration: none;
+}
+
+.weather-temperature .alternative {
+    color: black;
+    text-decoration: none;
 }
