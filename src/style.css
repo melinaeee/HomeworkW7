@@ -3,7 +3,7 @@ body{
 }
 
 h1 {
-    color: #382828;
+    color: rgb(54, 194, 29);
     font-size: 28px;
     font-weight: 100;
     line-height: 29px;
@@ -81,12 +81,12 @@ li:first-letter {
 
 .weather-forecast-date {
     font-size: 14px;
-    color: rgb(16, 132, 110);
+    color: rgb(54, 194, 29);
     text-align: center;
 
 }
 
 .weather-forecast-temperature {
-    color: black;
+    color: rgb(54, 194, 29);
     text-align: center;
 }
