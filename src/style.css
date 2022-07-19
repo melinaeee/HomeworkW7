@@ -86,6 +86,6 @@ li:first-letter {
 }
 
 .weather-forecast-temperature {
-    color: #1e6975;
     text-align: right;
+    color: #1a5862;
 }
